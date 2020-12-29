@@ -29,12 +29,13 @@ Informations about equipments...
 
 ### Result.csv
 
+| Operation name      | Status     | Manually defined code     |
 | Operation name 1 & Code (Status: Start)     | ...     | Operation name 10 & Code (Status: Start)          |
 | Operation name 1 & Code (Status: End)         | ...     | Operation name 10 & Code (Status: Start)          |
-| Mean of Operating times in Log file (Operation 1)          | ...     | Mean of Operating times in Log file (Operation 1)          |
+| Mean of Operating times in Log file (Operation 1)          | ...     | Mean of Operating times in Log file (Operation 1)        |
 | 1st Operation 1's time | ...   | 1st Operation 10's time    |
 | 2nd Operation 1's time   | ... | 2nd Operation 10's time |
 | ...   | ... | ... |
 | nth Operation 1's time   | ... | nth Operation 10's time |
-| ...   | ... | (... |
+| ...   | ... | ... |
 | blank   | ... | (n+m)th Operation 10's time |
