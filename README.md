@@ -32,7 +32,6 @@ Informations about equipments...
 | Operation name 1 & Code (Status: Start)      | ...     | Operation name 10 & Code (Status: Start)     |
 | Operation name 1 & Code (Status: End)      | ...     | Operation name 10 & Code (Status: End)     |
 | Mean of Operating times in Log file (Operation 1)          | ...     | Mean of Operating times in Log file (Operation 1)        |
-| :------------- | :----------: | -----------: |
 | 1st Operation 1's time | ...   | 1st Operation 10's time    |
 | 2nd Operation 1's time   | ... | 2nd Operation 10's time |
 | ...   | ... | ... |
