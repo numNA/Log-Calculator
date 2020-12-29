@@ -1,5 +1,4 @@
-# Log-Calculator: Calculating operations' time using txt log file from manufacturing equipments and manually defined operation lists.
-
+# Log-Calculator: Calculating operations' time of manufacturing equipments.
 Log-Calculator was a small project for calculating operation-times automatically. 
 This code requires 2 files Equipments' Log file (txt) and maually defined operations list. 
 Read them and crating each operations csv file 
