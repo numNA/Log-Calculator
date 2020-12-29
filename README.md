@@ -1,14 +1,13 @@
-# Log-Calculator: Calculating operations' time of manufacturing equipments.
+# Log-Calculator: Calculating operations' time of manufacturing equipment.
 Log-Calculator was a small project for calculating operation-times automatically. 
-This code requires 2 files Equipments' Log file (txt) and maually defined operations list. 
-Read them and crating each operations csv file 
+This code requires 2 files Equipment Log file (txt) and a manually defined operations list. 
 Because of security reasons, I can't upload raw files of them. 
 But their forms look like below.
 
 #### Log file.txt
 
 ...  
-Informations about equipments...  
+Information about the target equipment...  
 ...  
 [time]  [Operation name1] [Status]  
 [time]  [Operation name2] [Status]  
@@ -30,7 +29,7 @@ Informations about equipments...
 ### Result.csv
 
 | Operation name 1 & Code (Status: Start)      | ...     | Operation name 10 & Code (Status: Start)     |
---- | --- | ---
+| :------------- | :----------: | :----------- |
 | **Operation name 1 & Code (Status: End)**      | **...**     | **Operation name 10 & Code (Status: End)**     |
 | **Mean of Operating times in Log file (Operation 1)**          | **...**     | **Mean of Operating times in Log file (Operation 1)**        |
 | 1st Operation 1's time | ...   | 1st Operation 10's time    |
